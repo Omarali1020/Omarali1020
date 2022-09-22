@@ -18,4 +18,9 @@
 
 ### 🧰 OmarAli1020's GitHub stats
 
-[OmarAli1020's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarali1020&show_icons=true&theme=dark)
+![OmarAli1020's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarali1020&show_icons=true&theme=dark
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
