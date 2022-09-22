@@ -17,4 +17,4 @@
 <br />
 
 #
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Omarali1020=anuraghazra&show_icons=true&theme=dark)
