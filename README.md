@@ -15,5 +15,6 @@
 <img align="left" alt="Terminal" width="30px" src="./img/terminal-light.svg" />
 
 <br />
+### Stats
 
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarali1020&show_icons=true&theme=dark)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarali1020&show_icons=true&theme=dark)
